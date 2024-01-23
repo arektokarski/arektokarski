@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arek, after many years in transport industry I decided to change my career and learn to code.
-- Started with JAVA
-- I'm curently learnig HTML, CSS, SASS, JavaScript...
+- I'm curently learnig JAVA, SQL, HTML, CSS, SASS, JavaScript...
 - I'm spending most of my free time training my skills
 - I'm happy to work with others on interesting projects
 - You can contact me by email: atokarski@hotmail.com or discord @arektok
